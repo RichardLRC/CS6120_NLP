@@ -1,0 +1,100 @@
+<s> it should cost less than seven dollars </s>
+<s> let's start again </s>
+<s> let's start over </s>
+<s> let's start over </s>
+<s> on sunday or saturday night </s>
+<s> please tell me more about jupiter </s>
+<s> shilpa </s>
+<s> show me the list again </s>
+<s> show the list of the restaurants please </s>
+<s> start over </s>
+<s> tell me more about oriental food to go </s>
+<s> tell me the best japanese restaurant anywhere </s>
+<s> the day after tomorrow </s>
+<s> the distance should be less than twenty minutes away from the icsi </s>
+<s> the price could be up to twenty dollars  </s>
+<s> three dollars </s>
+<s> tomorrow </s>
+<s> tonight  </s>
+<s> uh i said i don't wanna spend more than twenty dollars </s>
+<s> uh i want a place that serves liquor </s>
+<s> uh i'm willing to travel about an hour from icsi </s>
+<s> what about la tour eiffel </s>
+<s> what are my choices </s>
+<s> what is the best way to go to gilman and peralta </s>
+<s> what's your name </s>
+<s> where is mcdonald's </s>
+<s> actually i want a cheap restaurant </s>
+<s> american food californian food </s>
+<s> when should we go home </s>
+<s> no translation can expect to equal much less to excel the original </s>
+<s> the ablest can do no more </s>
+<s> please let me live with you </s>
+<s> i answered her Yes </s>
+<s> i did not then care a straw for anything like a house </s>
+<s> i live with my mother </s>
+<s> i live with my father </s>
+<s> i live with my parents </s>
+<s> this is my dog </s>
+<s> my dog is richard </s>
+<s> he like to play with me </s>
+<s> she is my girfriend </s>
+<s> i imagined that might be so </s>
+<s> show me the where is it </s>
+<s> monday </s>
+<s> i have class on friday </s>
+<s> i do not have class on monday </s>
+<s> i take bus to school </s>
+<s> i take subway to school </s>
+<s> i walk to school </s>
+<s> i do not have girlfriend </s>
+<s> he is my boyfriend </s>
+<s> he is my son </s>
+<s> i am your father </s>
+<s> she is my sister </s>
+<s> he is my brother </s>
+<s> the color is white </s>
+<s> the color is black </s>
+<s> the color is yellow </s>
+<s> i drink coffee </s>
+<s> i like soda </s>
+<s> this is my lunch </s>
+<s> this is my dinner </s>
+<s> i have a speaker </s>
+<s> i am sleeping </s>
+<s> i meditated on the best way to spend that 600 dollars </s>
+<s> i should be able to learn something </s>
+<s> i accepted the position </s>
+<s> i had simply to travel there </s>
+<s> we went to boston </s>
+<s> seattle is a great place </s>
+<s> portland is a great place </s>
+<s> you do not want go there </s>
+<s> i went there before </s>
+<s> the station was easily found </s>
+<s> the station was hard to find </s>
+<s> i suppose he was a great man </s>
+<s> i attended at the school </s>
+<s> i stay at home </s>
+<s> work from home </s>
+<s> there is some more </s>
+<s> she went to the supermarket </s>
+<s> i ran out of the room in my night shirt </s>
+<s> he comes back from school </s>
+<s> the school bus is outside of the house </s>
+<s> basketball game is about to start </s>
+<s> soccer game is amazing </s>
+<s> he likes to play table tennis </s>
+<s> i will go out tonight </s>
+<s> i could not see what was what in the dark </s>
+<s> i dreamed that I picked up a diamond </s>
+<s> should i tell you what happens today </s>
+<s> go home and do your homework </s>
+<s> you need to do your homework </s>
+<s> he is a english teacher </s>
+<s> he went to high school </s>
+<s> this is university library </s>
+<s> you should stay in library for a whole night </s>
+<s> the class workload is too much </s>
+<s> i returned home and got ready </s>
+<s> i asked the boatman if our boat could not be made to it </s>
